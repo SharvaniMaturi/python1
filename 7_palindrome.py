@@ -1,4 +1,4 @@
-s=input("string:");
+s=input("enter string:");
 le=len(s);
 s1=list();
 for i in range(0,le):
